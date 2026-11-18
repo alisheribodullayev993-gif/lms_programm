@@ -1,0 +1,6 @@
+{
+  "name": "SINXRON TA'LIM",
+  "description": "O'qituvchi va o'quvchilar uchun real vaqt rejimidagi jonli darslar, Zoom videokonferensiya, topshiriqlar va jonli chat platformasi.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
